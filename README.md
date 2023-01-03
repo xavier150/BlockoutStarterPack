@@ -32,6 +32,7 @@ The sounds in the pack are free and downloadable here: https://www.dropbox.com/s
 
 ## Check the wiki pages!
 - [Release log](https://github.com/xavier150/BlockingStarterPack/wiki/Release-log)
+  - [v3.0 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v3.0.md)
   - [v2.4 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.4.md)
   - [v2.3 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.3.md)
   - [v2.2 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.2.md)
