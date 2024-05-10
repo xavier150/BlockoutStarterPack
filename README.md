@@ -47,7 +47,8 @@ Blueprints Assets:
 * Procedural Actors: 6
 * Others: 6
 
-## Check the wiki pages!
+## Documentation
+- [Actors](https://github.com/xavier150/BlockingStarterPack/wiki/Actors)
 - [Release log](https://github.com/xavier150/BlockingStarterPack/wiki/Release-log)
   - [v3.0 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v3.0.md)
   - [v2.4 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.4.md)
