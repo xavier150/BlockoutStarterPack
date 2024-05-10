@@ -2,33 +2,46 @@
 
 ![HighresScreenshot00001-1920x1080-fb48b4a5d3b2e6077d308e305731fea2](https://user-images.githubusercontent.com/7216958/208236199-40a6ae63-0019-4cfa-9982-360e3143e271.jpg)
 
-This pack includes several modular assets and props to facilitate the development of a project with unreal engine 4 create the blocking of your levels.
+Discord | GitHub | Playable Demo
+This asset pack includes several primitives, modular assets, props, materials, and decal to facilitate the Blockout / Greybox of a level in Unreal Engine.
+Last Update v3.0: Release log
 
-Video: https://youtu.be/p8c2jCoHdQc  
-Video2: https://youtu.be/Knm2qMygrWQ
+Meshes Assets:
+•	Primitives: 23
+•	Architecture: 181
+•	Industrials: 32
+•	Vehicles: 21
+•	Roads: 38
+•	Lights: 17
+•	Interactions: 9
+•	Decorations: 22
+•	Furnitures: 9
+•	Pipes: 18
+•	BigBuildings: 4
+•	SmallBuildings: 4
+•	LandMesh: 4
+•	DisplayPanels: 8
+•	Extra: 22
+•	Gears: 5
+•	Trashs: 3
+•	Bedroom: 2
+•	Bathroom: 3
+•	Vegetations: 1
+•	Weapons: 11
 
+Materials Assets:
+•	Basics: 14
+•	TriPlanar Local Aligned: 14
+•	TriPlanar World Aligned: 14
+•	Glass: 14
+•	Light: 14
+•	Decals: 7
+•	Editor Materials: 8
 
-
-Props:
-- 101 Architecture
-- 55 Barriers
-- 25 Doors windows and frames
-- 8 Buildings
-- 18 Pipes
-- 18 Lights
-- 13 Interact props
-- 32 Industrial
-- 14 Vehicles
-- 20 Small objects
-- 5 Weapons
-- 5 Furniture
-- 16 Road elements
-- 3 Restroom
-- 4 Landscapes mesh
-- 31 Other and extra
-
-The pack also contains several Blueprints for automatic doors, text display, decal, [...]
-The sounds in the pack are free and downloadable here: https://www.dropbox.com/sh/j4cxd8btkyuj0vh/AABT1Iwr1EPq5o3b7sIxobCga?dl=0 / https://youtu.be/nh9RHc0uqDs
+Blueprints Assets:
+•	Decal Actors: 19
+•	Automatic Doors: 5
+•	Static Door
 
 ## Check the wiki pages!
 - [Release log](https://github.com/xavier150/BlockingStarterPack/wiki/Release-log)
