@@ -7,41 +7,45 @@ This asset pack includes several primitives, modular assets, props, materials, a
 Last Update v3.0: Release log
 
 Meshes Assets:
-•	Primitives: 23
-•	Architecture: 181
-•	Industrials: 32
-•	Vehicles: 21
-•	Roads: 38
-•	Lights: 17
-•	Interactions: 9
-•	Decorations: 22
-•	Furnitures: 9
-•	Pipes: 18
-•	BigBuildings: 4
-•	SmallBuildings: 4
-•	LandMesh: 4
-•	DisplayPanels: 8
-•	Extra: 22
-•	Gears: 5
-•	Trashs: 3
-•	Bedroom: 2
-•	Bathroom: 3
-•	Vegetations: 1
-•	Weapons: 11
+* Primitives: 23
+* Architecture: 181
+* Industrials: 32
+* Vehicles: 21
+* Roads: 38
+* Lights: 17
+* Interactions: 9
+* Decorations: 22
+* Furnitures: 9
+* Pipes: 18
+* BigBuildings: 4
+* SmallBuildings: 4
+* LandMesh: 4
+* DisplayPanels: 8
+* Extra: 22
+* Gears: 5
+* Trashs: 3
+* Bedroom: 2
+* Bathroom: 3
+* Vegetations: 1
+* Weapons: 11
 
 Materials Assets:
-•	Basics: 14
-•	TriPlanar Local Aligned: 14
-•	TriPlanar World Aligned: 14
-•	Glass: 14
-•	Light: 14
-•	Decals: 7
-•	Editor Materials: 8
+* Basics: 14
+* TriPlanar Local Aligned: 14
+* TriPlanar World Aligned: 14
+* Glass: 14
+* Light: 14
+* Decals: 7
+* Editor Materials: 8
 
 Blueprints Assets:
-•	Decal Actors: 19
-•	Automatic Doors: 5
-•	Static Door
+* Decal Actors: 19
+* Automatic Doors: 5
+* Static Doors: 2
+* Buttons: 2
+* Light Actors: 10
+* Procedural Actors: 6
+* Others: 6
 
 ## Check the wiki pages!
 - [Release log](https://github.com/xavier150/BlockingStarterPack/wiki/Release-log)
