@@ -48,12 +48,6 @@ Blueprints Assets:
 * Others: 6
 
 ## Documentation
+# Documentation
 - [Actors](https://github.com/xavier150/BlockingStarterPack/wiki/Actors)
-- [Release log](https://github.com/xavier150/BlockingStarterPack/wiki/Release-log)
-  - [v3.0 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v3.0.md)
-  - [v2.4 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.4.md)
-  - [v2.3 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.3.md)
-  - [v2.2 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.2.md)
-  - [v2.1 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.1.md)
-  - [v2.0 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v2.0.md)
-  - [v1.0 - Alpha](https://github.com/xavier150/BlockingStarterPack/blob/main/ReleaseLog/v1.0.md)
+- [Release logs](https://github.com/xavier150/BlockoutStarterPack/wiki/Release-logs)  
