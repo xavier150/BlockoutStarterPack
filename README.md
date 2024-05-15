@@ -4,7 +4,11 @@
 
 [Marketplace](https://www.unrealengine.com/marketplace/en-US/product/blocking-starter-pack) | [Discord](https://discord.com/invite/XuYeGCFtxa) | [Playable Demo](https://www.dropbox.com/scl/fo/iwwwuqojv5juk92meorzp/AEaSa8Ql1CT8-ObO1-579Io?rlkey=y55pimr3ca6gfkcrfmvthmzwc&st=zhkqflc1&dl=0)
 This asset pack includes several primitives, modular assets, props, materials, and decal to facilitate the Blockout / Greybox of a level in Unreal Engine.
-Last Update v3.0: Release log
+
+Last Update v3.1:  
+- V3.0 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/v3.0.md) (11 May 2024)
+- V3.1 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/v3.1.md) (Soon)
+Please note: In the v3.0 and v3.1 updates I did many path changes. You can find all detail in both release logs. 
 
 Meshes Assets:
 * Primitives: 23
