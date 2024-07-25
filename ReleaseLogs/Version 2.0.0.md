@@ -1,7 +1,7 @@
 # Blocking Starter Pack - Release Log
 Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 
-###  v2.0
+###  Version 2.0.0
 
 - New: 57 StaticMesh(s)
 	SM_WoodenBox_Large

@@ -1,7 +1,7 @@
 # Blocking Starter Pack - Release Log
 Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 
-### v2.2
+### Version 2.2.0
 
 - Updated textures with small details.
 - Textures resolution enlarged to 2048px (Turn LOD Bias to 1 for 1024px)

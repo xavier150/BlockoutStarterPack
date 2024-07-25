@@ -1,7 +1,7 @@
 # Blocking Starter Pack - Release Log
 Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 
-### v2.4
+### Version 2.4.0
 
 - New  Material Parameter Collection: MPC_BlockingTextureSwitch
 - Redirector fixed

@@ -1,7 +1,7 @@
 # Blocking Starter Pack - Release Log
 Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 
-## v3.2
+## Version 3.2.0
 	- ...
 
 ## Blueprints updates
@@ -10,6 +10,7 @@ Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 	
 	(Decals)
 	- B_ZoneDecal: Now support all rotation types and corner pivot point.
+	- B_BlockingDecal: Tick disabled by default.
 		
 	(Procedural)
 	- B_Ladder_01: New "Horizontal Mat" and "Vertical Mat" for support custom material
@@ -19,4 +20,7 @@ Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 ## Meshs Updates
 
 ## Asset Name Changes
+
+## Textures updates
+	- Fix Textures types.
 

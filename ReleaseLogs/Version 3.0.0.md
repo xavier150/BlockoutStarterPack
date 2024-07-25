@@ -1,7 +1,7 @@
 # Blocking Starter Pack - Release Log
 Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 
-## v3.0
+## Version 3.0.0
     - Pack Rename "Blocking Starter Pack" to "Blockout Starter Pack"
     - More control in mateial for instanced use.
     - Overview level update.

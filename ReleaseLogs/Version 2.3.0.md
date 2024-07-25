@@ -1,7 +1,7 @@
 # Blocking Starter Pack - Release Log
 Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 
-### v2.3
+### Version 2.3.0
 
 - Fixed: Several collision was missing
 - Fixed: Several UV was not proper

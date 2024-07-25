@@ -1,7 +1,7 @@
 # Blocking Starter Pack - Release Log
 Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
 
-## v3.1
+## Version 3.1.0
 	- Fix and clean files.
 
 ## Blueprints updates
