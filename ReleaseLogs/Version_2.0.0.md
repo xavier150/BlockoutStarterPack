@@ -1,5 +1,5 @@
 # Blocking Starter Pack - Release Log
-Release Log: https://github.com/xavier150/BlockingStarterPack/wiki/Release-log
+Release Log: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 
 ###  Version 2.0.0
 
