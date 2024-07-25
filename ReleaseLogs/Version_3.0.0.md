@@ -1,5 +1,5 @@
 # Blocking Starter Pack - Release Log
-Release Log: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
+Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 
 ## Version 3.0.0
     - Pack Rename "Blocking Starter Pack" to "Blockout Starter Pack"
