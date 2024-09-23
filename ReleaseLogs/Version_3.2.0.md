@@ -2,7 +2,7 @@
 Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 
 ## Version 3.2.0
-	- ...
+	- Still in progress...
 
 ## Blueprints updates
 	(Lights)
@@ -18,6 +18,9 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 
 	
 ## Meshs Updates
+	(Primitives)
+	- Fixed UV Offset on All Primitives
+	- Better face subdivisions on All Primitives
 
 ## Asset Name Changes
 
