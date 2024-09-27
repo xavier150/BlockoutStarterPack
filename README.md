@@ -53,5 +53,11 @@ Blueprints Assets:
 * Others: 6
 
 # Documentation
+- [Home](https://github.com/xavier150/MMVS/wiki)
+
+### Assets
 - [Actors](https://github.com/xavier150/BlockingStarterPack/wiki/Actors)
 - [Release logs](https://github.com/xavier150/BlockoutStarterPack/wiki/Release-logs)  
+
+### Community
+- [Community Spotlight](https://github.com/xavier150/BlockoutStarterPack/wiki/Community-Spotlight)
