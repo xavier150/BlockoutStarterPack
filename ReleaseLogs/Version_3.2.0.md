@@ -22,6 +22,9 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 	- Fixed UV Offset on All Primitives
 	- Better face subdivisions on All Primitives
 
+	(Interactions)
+	- Add root bones on interaction Skeletons + Update interaction animation sequences
+
 ## Asset Name Changes
 
 ## Textures updates
