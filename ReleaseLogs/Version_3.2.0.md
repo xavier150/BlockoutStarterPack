@@ -16,6 +16,9 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 	- B_Ladder_01: New "Horizontal Mat" and "Vertical Mat" for support custom material
 	- B_StairPlane: New "Fit Mat"
 
+	(Interactions)
+	- B_FloorButton add output to return self in Delegates.
+
 	
 ## Meshs Updates
 	(Primitives)
