@@ -17,7 +17,7 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 	- B_StairPlane: New "Fit Mat"
 
 	(Interactions)
-	- B_FloorButton add output to return self in Delegates.
+	- B_FloorButton add output to return self in Event Dispatchers.
 
 	
 ## Meshs Updates
