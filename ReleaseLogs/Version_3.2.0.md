@@ -19,6 +19,9 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 	(Interactions)
 	- B_FloorButton add output to return self in Event Dispatchers.
 
+    (Doors)
+    - B_BaseAutoDoor : New callable functions to open, close or toggle doors.
+
 	
 ## Meshs Updates
 	(Primitives)
