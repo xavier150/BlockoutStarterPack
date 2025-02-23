@@ -31,7 +31,10 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 	(Interactions)
 	- Add root bones on interaction Skeletons + Update interaction animation sequences
 
-## Asset Name Changes
+
+## Folder Name Changes
+    - Meshes/Roads/Road -> Meshes/Roads (Fix asset duplication issue)
+
 
 ## Textures updates
 	- Fix Textures types.
