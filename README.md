@@ -11,12 +11,12 @@ Last Update v3.1:
 - [Other Release logs](https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs)  
 Please note: In the v3.0 and v3.1 updates I did many path changes. You can find all detail in release logs. 
 
-Meshes Assets:
+### Meshes Assets (418)
 * Primitives: 23
 * Architecture: 181
 * Industrials: 32
 * Vehicles: 21
-* Roads: 38
+* Roads: 19
 * Lights: 17
 * Interactions: 9
 * Decorations: 22
@@ -34,7 +34,7 @@ Meshes Assets:
 * Vegetations: 1
 * Weapons: 11
 
-Materials Assets:
+### Materials Assets (85)
 * Basics: 14
 * TriPlanar Local Aligned: 14
 * TriPlanar World Aligned: 14
@@ -43,7 +43,7 @@ Materials Assets:
 * Decals: 7
 * Editor Materials: 8
 
-Blueprints Assets:
+### Blueprints Assets (50)
 * Decal Actors: 19
 * Automatic Doors: 5
 * Static Doors: 2
