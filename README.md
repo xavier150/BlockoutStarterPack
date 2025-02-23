@@ -34,12 +34,12 @@ Please note: In the v3.0 and v3.1 updates I did many path changes. You can find 
 * Vegetations: 1
 * Weapons: 11
 
-### Materials Assets (85)
+### Materials Assets (77)
 * Basics: 14
 * TriPlanar Local Aligned: 14
 * TriPlanar World Aligned: 14
-* Glass: 14
-* Light: 14
+* Glass: 11
+* Light: 9
 * Decals: 7
 * Editor Materials: 8
 
