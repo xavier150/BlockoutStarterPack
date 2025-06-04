@@ -3,6 +3,9 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 
 ## Version 3.2.0
     - Still in progress...
+    - Overview level update.
+    - Demonstration1 level update.
+    - Demonstration2 level update.
 
 ## New Blueprints
     (Interactions)
@@ -23,8 +26,9 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
     - B_BlockingLights: You can now control the emissive intensity.
     
     (Decals)
-    - B_ZoneDecal: Now supports all rotation types and corner pivot point.
     - B_BlockingDecal: Tick is disabled by default.
+    - B_ZoneDecal: Now supports all rotation types and corner pivot point.
+    - B_SimpleBlockingDecal: Now supports corner pivot point.
         
     (Procedural)
     - B_Ladder_01: New "Horizontal Mat" and "Vertical Mat" to support custom material.
@@ -58,6 +62,10 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
     - Fixed texture types.
 
 ## Asset Name Changes
-    - B_ProcedularBlockingActor -> B_ProceduralBlockingActor
+    - B_ProcedularBlockingActor -> B_ProceduralBlockoutActor
     - B_BlockingTooltipActor -> B_BlockoutTooltipActor
+    - SM_FloorButtonPuch -> SM_FloorButton_Push
+    - SM_ButtonPuch -> SM_Button_Push
 
+## Asset Change
+    - SK_Button_Skeleton: The bone "ButtonPuch" renamed to "ButtonPush".
