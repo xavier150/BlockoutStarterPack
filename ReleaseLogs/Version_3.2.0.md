@@ -1,41 +1,63 @@
-# Blocking Starter Pack - Release Log
+# Blockout Starter Pack - Release Log
 Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 
 ## Version 3.2.0
-	- Still in progress...
+    - Still in progress...
+
+## New Blueprints
+    (Interactions)
+    - B_TriggerButton:
+        A new base class for trigger buttons.
+        Better replication with causer info when button is pressed.
+        New "On Button State Change" event dispatcher.
+
+    - B_TurnToCameraComponent:
+        Fixed: Component try to access player camera when not available.
 
 ## Blueprints updates
-	(Lights)
-	- B_BlockingLights : You can now control the emissive intensity.
-	
-	(Decals)
-	- B_ZoneDecal: Now support all rotation types and corner pivot point.
-	- B_BlockingDecal: Tick disabled by default.
-		
-	(Procedural)
-	- B_Ladder_01: New "Horizontal Mat" and "Vertical Mat" for support custom material
-	- B_StairPlane: New "Fit Mat"
+    (Interactions)
+    - B_FloorButton: Now uses B_TriggerButton as parent actor.
+    - B_PushButton: Now uses B_TriggerButton as parent actor.
 
-	(Interactions)
-	- B_FloorButton add output to return self in Event Dispatchers.
+    (Lights)
+    - B_BlockingLights: You can now control the emissive intensity.
+    
+    (Decals)
+    - B_ZoneDecal: Now supports all rotation types and corner pivot point.
+    - B_BlockingDecal: Tick is disabled by default.
+        
+    (Procedural)
+    - B_Ladder_01: New "Horizontal Mat" and "Vertical Mat" to support custom material.
+    - B_StairPlane: New "Fit Mat" option.
+
+    (Interactions)
+    - B_FloorButton: Added output to return self in Event Dispatchers.
 
     (Doors)
-    - B_BaseAutoDoor : New callable functions to open, close or toggle doors.
+    - B_BaseAutoDoor: Added callable functions to open, close, or toggle doors.
 
-	
-## Meshs Updates
-	(Primitives)
-	- Fixed UV Offset on All Primitives
-	- Better face subdivisions on All Primitives
+    (Others)
+    - B_DisplayPanel: Function "UpdateOnlyPanelText" renamed to "SetText".
+    - B_BlockoutTooltipActor: You can now change the color of the circle.
 
-	(Interactions)
-	- Add root bones on interaction Skeletons + Update interaction animation sequences
+    (BlockingTooltip)
+    - B_BlockingTooltipActor: Updated functions.
 
+## Meshes Updates
+    (Primitives)
+    - Fixed UV offset on all primitives.
+    - Improved face subdivisions on all primitives.
+
+    (Interactions)
+    - Added root bones to interaction skeletons and updated interaction animation sequences.
 
 ## Folder Name Changes
-    - Meshes/Roads/Road -> Meshes/Roads (Fix asset duplication issue)
-
+    - Meshes/Roads/Road → Meshes/Roads (fixed asset duplication issue)
 
 ## Textures updates
-	- Fix Textures types.
+    - Fixed texture types.
+
+## Asset Name Changes
+    - B_ProcedularBlockingActor -> B_ProceduralBlockingActor
+    - B_BlockingTooltipActor -> B_BlockoutTooltipActor
 
