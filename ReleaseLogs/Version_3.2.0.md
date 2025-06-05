@@ -2,7 +2,6 @@
 Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 
 ## Version 3.2.0
-    - Still in progress...
     - Overview level update.
     - Demonstration1 level update.
     - Demonstration2 level update.
