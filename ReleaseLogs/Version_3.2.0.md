@@ -1,9 +1,7 @@
-# Blocking Starter Pack - Release Log
+# Blocking Starter Pack 3.2.0 - Release Log
 Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
 
-## Version 3.2.0
-	- Still in progress...
-
+	
 ## Blueprints updates
 	(Lights)
 	- B_BlockingLights : You can now control the emissive intensity.
