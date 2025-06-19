@@ -5,10 +5,11 @@
 [Fab](https://www.fab.com/listings/146d563e-5b57-4701-bbd5-c317ebfb18b5) | [Discord](https://discord.com/invite/XuYeGCFtxa) | [Playable Demo](https://www.dropbox.com/scl/fo/iwwwuqojv5juk92meorzp/AEaSa8Ql1CT8-ObO1-579Io?rlkey=y55pimr3ca6gfkcrfmvthmzwc&st=zhkqflc1&dl=0)
 This asset pack includes several primitives, modular assets, props, materials, and decal to facilitate the Blockout / Greybox of a level in Unreal Engine.
 
-Last Update v3.2:  
-- V3.2 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/Version_3.2.0.md) (04 June 2025)
-- V3.1 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/Version_3.1.0.md) (17 May 2024)
-- V3.0 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/Version_3.0.0.md) (11 May 2024)
+Last Updates:  
+- V3.2.1 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/Version_3.2.1.md) (19 June 2025)
+- V3.2.0 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/Version_3.2.0.md) (04 June 2025)
+- V3.1.0 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/Version_3.1.0.md) (17 May 2024)
+- V3.0.0 -> [Release log](https://github.com/xavier150/BlockoutStarterPack/blob/main/ReleaseLogs/Version_3.0.0.md) (11 May 2024)
 - [Other Release logs](https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs)  
 Please note: In the v3.0 and v3.1 updates I did many path changes. You can find all detail in release logs. 
 
