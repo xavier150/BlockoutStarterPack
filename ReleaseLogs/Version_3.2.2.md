@@ -28,6 +28,8 @@ Release Logs: https://github.com/xavier150/BlockoutStarterPack/wiki/Release-Logs
     (Furniture)
     - Small rescale of SM_OfficeChair_01 to fit standard sizes.
     - Small rescale of SM_DiningChair_01 to fit standard sizes.
+    - New collisions for SM_SimpleTable_01, SM_SimpleTable_02, SM_DinnerTable_01 and SM_DinnerTable_02.
+    - New collisions for SM_OfficeChair_01, SM_DiningChair_01 and SM_Armchair_01
 
 ## Animations Updates
     - Fixed: Button animations not working (Wrong animated bone).
